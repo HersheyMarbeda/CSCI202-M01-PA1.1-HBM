@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hersheymarbeda/Desktop/CSCI 202/M01/Polymorphism-Validation/Polymorphism-Validation",
+      "program": "/Users/hersheymarbeda/Desktop/CSCI 202/M01/Polymorphism-Validation/Polymorphism-Validation/build/Debug/outDebug"
+    }
+  ]
+}
